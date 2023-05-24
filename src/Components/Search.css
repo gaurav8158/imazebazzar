@@ -1,0 +1,28 @@
+.input{
+    padding:10px;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #888;
+    margin-right:1rem;
+}
+.input:focus{
+    outline: none;
+}
+.search-box{
+display: flex;
+justify-content: center;
+
+}
+button{
+    border:none;
+   border-radius: 0.7rem;
+}
+.search{
+    background-color: rgb(26, 26, 237);
+    color:antiquewhite;
+    margin-right: 0.4rem;
+}
+.reset{
+    background-color: grey;
+    color:antiquewhite;
+}
